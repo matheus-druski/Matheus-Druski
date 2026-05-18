@@ -5,7 +5,6 @@
 Estudante de programação, aprendendo uma linha de código por vez.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-druski-24342934b)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:madruski09@gmail.com)
 
 </div>
 
@@ -36,8 +35,8 @@ Estou no início da minha jornada na programação, focado em construir uma base
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=555&text_color=555" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=default&hide_border=true&title_color=333&text_color=555" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=matheus-druski&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=555&text_color=555" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-druski&layout=compact&theme=default&hide_border=true&title_color=333&text_color=555" />
 
 </div>
 
@@ -58,9 +57,9 @@ Estou no início da minha jornada na programação, focado em construir uma base
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Druski/Matheus-Druski/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus-Druski/Matheus-Druski/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Matheus-Druski/Matheus-Druski/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-druski/matheus-druski/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-druski/matheus-druski/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/matheus-druski/matheus-druski/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
