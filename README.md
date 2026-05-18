@@ -46,7 +46,7 @@ Estou no início da minha jornada na programação, focado em construir uma base
 
 <div align="center">
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/SEU_SPOTIFY_ID)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/315ecuhg4mnhnecs3oq44f4ne4se)
 
 </div>
 
