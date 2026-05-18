@@ -29,29 +29,6 @@ Estou no início da minha jornada na programação, focado em construir uma base
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### Estatísticas
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=matheus-druski&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=555&text_color=555" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-druski&layout=compact&theme=default&hide_border=true&title_color=333&text_color=555" />
-
-</div>
-
----
-
-### Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-druski/matheus-druski/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-druski/matheus-druski/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/matheus-druski/matheus-druski/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 </div>
 
 ---
