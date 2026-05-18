@@ -42,16 +42,6 @@ Estou no início da minha jornada na programação, focado em construir uma base
 
 ---
 
-### Ouvindo agora
-
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/315ecuhg4mnhnecs3oq44f4ne4se)
-
-</div>
-
----
-
 ### Contribuições
 
 <div align="center">
